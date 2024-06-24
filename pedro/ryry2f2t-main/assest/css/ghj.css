@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(109, 236, 162);
+}
+@media screen and (max-width: 700px) {
+    body{background-color: rgb(95, 150, 212);}
+}
+    
